@@ -1,5 +1,5 @@
 
-# Lab2 - Install Hadoop and run Map REduce
+# Lab2 - Install Hadoop and run Map Reduce
 
 
 ### Task 1 - Install Hadoop
